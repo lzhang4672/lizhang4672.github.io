@@ -1,1 +1,4 @@
-jonbarron.info
+Type: CNAME
+Name: www
+Value: lizhang.github.io
+TTL: default / auto
